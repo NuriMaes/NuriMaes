@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Nuria 👋
 
-<!--
-**NuriMaes/NuriMaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a continuous learner currently focused on mastering **Python** and exploring the potential of **Artificial Intelligence**. I love building tools that solve real-world problems.
 
-Here are some ideas to get you started:
+### 🚀 My Latest Milestone
+- **[Project 1: URL to MP3 Converter](https://github.com/NuriMaes/Proyecto1)**: A Python script that transforms web articles into playable audio files using `gTTS`, `Newspaper3k`, and `NLTK`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📫 Let's Connect!
+- 📧 [nmaestremartinez@icloud.com](mailto:nmaestremartinez@icloud.com)
