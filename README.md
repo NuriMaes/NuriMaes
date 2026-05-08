@@ -3,7 +3,7 @@
 I am a continuous learner currently focused on mastering **Python** and exploring the potential of **Artificial Intelligence**. I love building tools that solve real-world problems.
 
 ### 🚀 My Latest Milestone
-- **[Project 1: URL to MP3 Converter](https://github.com/NuriMaes/Proyecto1)**: A Python script that transforms web articles into playable audio files using `gTTS`, `Newspaper3k`, and `NLTK`.
+- **[Project 1: URL to MP3 Converter](https://github.com/NuriMaes/Project1.git)**: A Python script that transforms web articles into playable audio files using `gTTS`, `Newspaper3k`, and `NLTK`.
 
 ### 🛠️ My Toolbox & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
