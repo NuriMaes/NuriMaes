@@ -1,15 +1,24 @@
 # Hi there! I'm Nuria 👋
 
-I am a continuous learner currently focused on mastering **Python** and exploring the potential of **Artificial Intelligence**. I love building tools that solve real-world problems.
+I am a continuous learner currently focused on mastering **Python** and exploring the potential of **Artificial Intelligence**. I'm passionate about building tools that bridge the gap between complex data and real-world solutions.
 
-### 🚀 My Latest Milestone
-- **[Project 1: URL to MP3 Converter](https://github.com/NuriMaes/Project1.git)**: A Python script that transforms web articles into playable audio files using `gTTS`, `Newspaper3k`, and `NLTK`.
+## 🚀 Current Focus
+- **AI Agents:** Exploring autonomous agentic workflows and LLM orchestration.
+- **Data Mastery:** Managing and querying structured data with **SQL**.
+- **Python Development:** Creating robust scripts and GUI-based applications.
 
-### 🛠️ My Toolbox & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠️ My Toolbox & Technologies
 
-### 📫 Let's Connect!
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL (MySQL Workbrench) |
+| **AI & Agents** | OpenAI API, LangChain, Agentic Frameworks |
+| **Data** | Pandas, NumPy, Basic SQL Querying |
+| **Tools** | Git, GitHub, VS Code, Mac OS |
+
+## 📂 Featured Projects
+- **[Pong-Python-Arcade](https://github.com/NuriMaes/Pong-Python-Arcade):** A classic game developed to master logic, coordinates, and real-time physics.
+- **[MP3-Converter](https://github.com/NuriMaes/MP3-Converter):** Leveraging Python to transform web content into accessible audio.
+
+## 🛰️ Let's Connect!
 - 📧 [nmaestremartinez@icloud.com](mailto:nmaestremartinez@icloud.com)
